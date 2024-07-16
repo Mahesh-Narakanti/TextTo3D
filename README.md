@@ -1,1 +1,1 @@
-# TextTo3D
+# AI Prompted 3D Modeling
